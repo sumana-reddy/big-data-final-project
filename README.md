@@ -16,7 +16,7 @@ Using PySpark for Natural language Processing
 * Processing
 * Charting
 
-- Cleaning
+### Cleaning
    * NLP stopword removal
    * Remove all non-leters
    * To get data text from URL
@@ -35,7 +35,7 @@ dbutils.fs.mv("file:/tmp/gutenberg.txt", "dbfs:/data/gutenberg.txt")
 rawRDD = sc.textFile("dbfs:/data/gutenberg.txt")
 
 ```
-- Processing
+### Processing
    * Flatmap from one to many(one line of text to many words)
    * cast everything to lowercase
    * strip whitespace from beginning and end split by our delimiter (space, commma)
@@ -80,7 +80,7 @@ print(finalresults)
 
 ```
 
-- Charting
+### Charting
    * Plot Options... was used to configure the graph below.
    * The Key is Year and appears on the X-Axis.
    * The Series groupings is Product and there is a different color to denote each of those.
