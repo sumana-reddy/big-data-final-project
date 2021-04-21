@@ -1,9 +1,9 @@
 # big-data-final-project
 
-## About Me
+## About Me :woman:
 - [Sumana Reddy Reddybathula](https://github.com/sumana-reddy)
 
-## Link for Databricks published notebook
+## Link for Databricks published notebook :notebook:
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7340731884324704/4073657483805730/3316173007748205/latest.html
 
 ## Source of text used
@@ -80,7 +80,7 @@ print(finalresults)
 
 ```
 
-### Charting
+### Charting :bar_chart:
    * Plot Options... was used to configure the graph below.
    * The Key is Year and appears on the X-Axis.
    * The Series groupings is Product and there is a different color to denote each of those.
