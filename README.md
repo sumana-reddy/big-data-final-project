@@ -6,10 +6,10 @@
 ## Link for Databricks published notebook :notebook:
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7340731884324704/4073657483805730/3316173007748205/latest.html
 
-## Source of text used
+## Source of text used <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqhBisSZIPP_GydSPJD3gr0kkCepL5_VqsA&usqp=CAU" width="31" height="33">
 - https://www.gutenberg.org/
 
-## Process text using Databricks Community Edition and PySpark.
+## Process text using Databricks Community Edition and PySpark. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtD2Xv4Qb0PkUR-537V3BeKE9mHD0asahldoiHB17UECjLVI7V-jYpIUHqWtWxMdtoEn8&usqp=CAU" width="35" height="35">
 
 Using PySpark for Natural language Processing
 * Cleaning
