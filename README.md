@@ -16,7 +16,7 @@ Using PySpark for Natural language Processing
 * Processing
 * Charting
 
-### Cleaning (https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Fclean-time-cliparts.html&psig=AOvVaw1De6Kruq-33CG4mFVqkx1i&ust=1619108523872000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDN9MXfj_ACFQAAAAAdAAAAABAD)
+### Cleaning <img src="https://lh3.googleusercontent.com/proxy/nTAD3l0H9XudvAgSZsOCYhcXapp8pKBpTZBbVHTOl6KsTxLiwxa9X5CgOBU7XyTsCY6U6iL-tvI1L0rE3s19xk3vH7HS-3elNL9XvohYoeynfCmjZkz-DlftjBK0LWFhJNfw3EP8GXaXDzOOmlRxTrDL" alt="Flowers in Chania" width="28" height="28">
    * NLP stopword removal
    * Remove all non-leters
    * To get data text from URL
