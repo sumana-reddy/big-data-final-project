@@ -35,7 +35,8 @@ dbutils.fs.mv("file:/tmp/gutenberg.txt", "dbfs:/data/gutenberg.txt")
 rawRDD = sc.textFile("dbfs:/data/gutenberg.txt")
 
 ```
-### Processing
+### Processing <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX17349311.jpg" width="30" height="30">
+
    * Flatmap from one to many(one line of text to many words)
    * cast everything to lowercase
    * strip whitespace from beginning and end split by our delimiter (space, commma)
