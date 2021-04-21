@@ -110,8 +110,8 @@ sns.barplot(xlabel, ylabel, data=df, palette="rocket").set_title(title)
 
 ## Results <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvrf9cSoP1Bk3sRsAKjgzO6QRmooS6TLH2mg&usqp=CAU" width="40" height="35">
 
-- [Results for top 20 words](results.PNG)
-- [Results in bar graph](bargraph.PNG)
+- ![Results for top 20 words](results.PNG)
+- ![Results in bar graph](bargraph.PNG)
 
 ## References <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXH11khG_d4qz8TLEa1BANAnYX7iu4B8YOg&usqp=CAU" width="40" height="35">
 - https://docs.databricks.com/_static/notebooks/higher-order-functions-tutorial-python.html
